@@ -1,0 +1,4 @@
+// Backup of App.complete.jsx (moved during consolidation). Remove if not needed.
+export default function Backup() {
+  return null;
+}

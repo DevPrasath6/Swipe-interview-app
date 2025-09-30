@@ -1,0 +1,19 @@
+import __vite__cjsImport0_react_jsxDevRuntime from "/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=903b213c"; const jsxDEV = __vite__cjsImport0_react_jsxDevRuntime["jsxDEV"];
+import __vite__cjsImport1_react from "/node_modules/.vite/deps/react.js?v=903b213c"; const React = __vite__cjsImport1_react.__esModule ? __vite__cjsImport1_react.default : __vite__cjsImport1_react;
+import __vite__cjsImport2_reactDom_client from "/node_modules/.vite/deps/react-dom_client.js?v=0fb002c9"; const ReactDOM = __vite__cjsImport2_reactDom_client.__esModule ? __vite__cjsImport2_reactDom_client.default : __vite__cjsImport2_reactDom_client;
+import App from "/src/App.fixed.jsx";
+import "/src/index.working.css";
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(
+  /* @__PURE__ */ jsxDEV(React.StrictMode, { children: /* @__PURE__ */ jsxDEV(App, {}, void 0, false, {
+    fileName: "C:/Users/91934/Music/swipe_interview_app/frontend/src/index.jsx",
+    lineNumber: 9,
+    columnNumber: 5
+  }, this) }, void 0, false, {
+    fileName: "C:/Users/91934/Music/swipe_interview_app/frontend/src/index.jsx",
+    lineNumber: 8,
+    columnNumber: 3
+  }, this)
+);
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJtYXBwaW5ncyI6IkFBUUk7QUFSSixPQUFPQSxXQUFXO0FBQ2xCLE9BQU9DLGNBQWM7QUFDckIsT0FBT0MsU0FBUztBQUNoQixPQUFPO0FBRVAsTUFBTUMsT0FBT0YsU0FBU0csV0FBV0MsU0FBU0MsZUFBZSxNQUFNLENBQUM7QUFDaEVILEtBQUtJO0FBQUFBLEVBQ0gsdUJBQUMsTUFBTSxZQUFOLEVBQ0MsaUNBQUMsU0FBRDtBQUFBO0FBQUE7QUFBQTtBQUFBLFNBQUksS0FETjtBQUFBO0FBQUE7QUFBQTtBQUFBLFNBRUE7QUFDRiIsIm5hbWVzIjpbIlJlYWN0IiwiUmVhY3RET00iLCJBcHAiLCJyb290IiwiY3JlYXRlUm9vdCIsImRvY3VtZW50IiwiZ2V0RWxlbWVudEJ5SWQiLCJyZW5kZXIiXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZXMiOlsiaW5kZXguanN4Il0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XHJcbmltcG9ydCBSZWFjdERPTSBmcm9tICdyZWFjdC1kb20vY2xpZW50JztcclxuaW1wb3J0IEFwcCBmcm9tICcuL0FwcC5maXhlZCc7XHJcbmltcG9ydCAnLi9pbmRleC53b3JraW5nLmNzcyc7XHJcblxyXG5jb25zdCByb290ID0gUmVhY3RET00uY3JlYXRlUm9vdChkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncm9vdCcpKTtcclxucm9vdC5yZW5kZXIoXHJcbiAgPFJlYWN0LlN0cmljdE1vZGU+XHJcbiAgICA8QXBwIC8+XHJcbiAgPC9SZWFjdC5TdHJpY3RNb2RlPlxyXG4pO1xyXG4iXSwiZmlsZSI6IkM6L1VzZXJzLzkxOTM0L011c2ljL3N3aXBlX2ludGVydmlld19hcHAvZnJvbnRlbmQvc3JjL2luZGV4LmpzeCJ9
