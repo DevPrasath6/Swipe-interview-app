@@ -4,10 +4,12 @@
     "description": "AI-Powered Interview Assistant - Full Stack Application",
     "private": true,
     "scripts": {
-        "dev:frontend": "cd frontend && npm run dev",
-        "build:frontend": "cd frontend && npm run build",
-        "install:frontend": "cd frontend && npm install",
-        "start": "npm run dev:frontend"
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build",
+    "install:frontend": "cd frontend && npm install",
+    "build": "cd frontend && npm ci && npm run build",
+    "build:all": "cd backend && npm ci && npm test || true && cd ../frontend && npm ci && npm run build",
+    "start": "npm run dev:frontend"
     },
     "engines": {
         "node": ">=18.0.0",
